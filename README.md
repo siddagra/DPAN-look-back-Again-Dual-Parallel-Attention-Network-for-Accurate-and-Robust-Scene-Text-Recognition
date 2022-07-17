@@ -2,7 +2,7 @@
 Unofficial Implementation of paper "look back Again: Dual Parallel Attention Network for Accurate and Robust Scene Text Recognition"
 
 ## Training:
-Add training and validation images to dataset/train_data.
+Add training and validation images to `dataset/train_data`.
 
 Generate `train.txt` and `val.txt` labels in the following format:
 
