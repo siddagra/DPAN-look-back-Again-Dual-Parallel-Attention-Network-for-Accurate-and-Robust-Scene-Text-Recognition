@@ -5,6 +5,7 @@ Unofficial Implementation of paper "look back Again: Dual Parallel Attention Net
 Add training and validation images to dataset/train_data.
 
 Generate `train.txt` and `val.txt` labels in the following format:
+
 Image filename followed by tab seperator followed by ground truth text label.
 
 Example:
@@ -13,6 +14,7 @@ img1.png	synthesizer
 img2.png	waterpark
 img3.png	pokemon
 ```
+(TAB seperator)
 
 To train, use the `train.py`:
 ```
