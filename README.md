@@ -18,7 +18,7 @@ img3.png	pokemon
 
 To train, use the `train.py`:
 ```
-python train.py --root dataset/train_data --train_csv train.txt --val_csv train.txt --batch_size 32
+python train.py --root dataset/train_data --train_csv train.txt --val_csv train.txt
 ```
 
 ## Acknowledgements:
