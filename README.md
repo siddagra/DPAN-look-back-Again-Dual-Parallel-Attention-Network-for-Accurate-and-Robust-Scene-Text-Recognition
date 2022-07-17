@@ -1,4 +1,4 @@
-# DPAN: look back Again Dual Parallel Attention Network for Accurate and Robust Scene Text Recognition
+# DPAN: Look Back Again: Dual Parallel Attention Network for Accurate and Robust Scene Text Recognition
 Unofficial Implementation of paper "look back Again: Dual Parallel Attention Network for Accurate and Robust Scene Text Recognition"
 
 ## Training:
